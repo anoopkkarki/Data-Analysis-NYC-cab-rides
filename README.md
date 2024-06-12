@@ -7,7 +7,7 @@ Using this data we will answer a few questions like
 * Mean speed of our cab rides. 
 * Rides in a particular month 
 * No. of times where drivers were tipped over a certain amount 
-* Months where drivers were tipped this amount 
+* Months where drivers were tipped 0 amount 
 * No. of times riders were dropped off to the airport.
 
 The project is made in jupyter notebook. 
